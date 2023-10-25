@@ -1,0 +1,20 @@
+{
+    "name": "hugo",
+    "build": {
+        "dockerfile": "Dockerfile"
+    },
+    "remoteUser": "vscode",
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "yzhang.markdown-all-in-one",
+                "DavidAnson.vscode-markdownlint",
+                "taichi.vscode-textlint"
+            ],
+            "settings": {
+                "terminal.integrated.defaultProfile.linux": "fish",
+                "editor.formatOnSave": true
+            }
+        }
+    }
+}
