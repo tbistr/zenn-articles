@@ -10,11 +10,7 @@
                 "yzhang.markdown-all-in-one",
                 "DavidAnson.vscode-markdownlint",
                 "taichi.vscode-textlint"
-            ],
-            "settings": {
-                "terminal.integrated.defaultProfile.linux": "fish",
-                "editor.formatOnSave": true
-            }
+            ]
         }
     }
 }
