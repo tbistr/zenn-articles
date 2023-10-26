@@ -6,6 +6,10 @@ topics: ["linux"]
 published: true
 ---
 
+:::message
+この記事は、過去に自分のブログで公開していたものの移植です。
+:::
+
 個人的にLinuxをお勉強する上でのルートを考えてみました。
 
 ## Introduction
