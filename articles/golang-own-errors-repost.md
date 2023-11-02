@@ -4,6 +4,7 @@ emoji: "👋"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["go"]
 published: true
+published_at: 2022-11-21
 ---
 
 :::message

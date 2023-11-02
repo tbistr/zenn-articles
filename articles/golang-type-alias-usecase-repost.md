@@ -4,6 +4,7 @@ emoji: "💬"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["go"]
 published: true
+published_at: 2023-03-06
 ---
 
 :::message

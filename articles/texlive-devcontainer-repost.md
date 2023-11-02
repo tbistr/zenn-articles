@@ -4,6 +4,7 @@ emoji: "📑"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["tex", "docker", "vscode"]
 published: true
+published_at: 2022-01-14
 ---
 
 :::message
