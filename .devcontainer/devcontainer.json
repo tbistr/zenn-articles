@@ -12,5 +12,6 @@
                 "taichi.vscode-textlint"
             ]
         }
-    }
+    },
+    "postAttachCommand": "zenn preview"
 }
