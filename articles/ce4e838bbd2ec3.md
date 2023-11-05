@@ -209,7 +209,3 @@ Bubble Teaの開発チームであるCharmが作っている、Lipglossという
 
 - https://motemen.hatenablog.com/entry/2022/06/introduction-to-go-bubbletea
 - https://zenn.dev/yuzuy/articles/95e522a39a5423f5bff4
-
----
-
-[この記事は自分のブログでも公開しています。](https://tbistr.github.io/posts/tech/introduce_bubbletea/)
