@@ -1,9 +1,8 @@
 {
-    "name": "hugo",
+    "name": "zenn-article",
     "build": {
         "dockerfile": "Dockerfile"
     },
-    "remoteUser": "vscode",
     "customizations": {
         "vscode": {
             "extensions": [
