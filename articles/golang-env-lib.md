@@ -287,7 +287,7 @@ type envs struct{
 `caarlos0/env`githubのスター数は4kですが、`kelseyhightower/envconfig`は4.7kと人気は`kelseyhightower/envconfig`のほうが上のようです。
 
 :::message
-2023/12/3時点の検索結果にです。
+2023/12/3時点の検索結果です。
 
 :::
 
