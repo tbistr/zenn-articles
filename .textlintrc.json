@@ -2,7 +2,17 @@
     "filters": {},
     "rules": {
         "preset-ja-spacing": true,
-        "preset-ja-technical-writing": true,
+        "preset-ja-technical-writing": {
+            "ja-no-mixed-period": {
+                "allowPeriodMarks": [
+                    ":"
+                ]
+            },
+            "no-exclamation-question-mark": {
+                "allowFullWidthExclamation": true,
+                "allowFullWidthQuestion": true
+            }
+        },
         "spellcheck-tech-word": true
     }
 }

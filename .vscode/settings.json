@@ -1,4 +1,7 @@
 {
     "terminal.integrated.defaultProfile.linux": "fish",
-    "editor.formatOnSave": true
+    "editor.formatOnSave": true,
+    "markdownlint.config": {
+        "MD025": false
+    },
 }
