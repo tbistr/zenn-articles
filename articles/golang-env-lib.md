@@ -3,7 +3,7 @@ title: "Go言語で環境変数を扱う"
 emoji: "🐈"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["golang"]
-published: false
+published: true
 publication_name: "kurusugawa"
 ---
 
