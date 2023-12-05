@@ -165,7 +165,7 @@ type config struct {
 
 ```go
 type config struct {
-    Host string `env:"HOST"`
+    Host string `env:"HOST,required"`
     Port string `env:"PORT"`
 }
 
