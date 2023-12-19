@@ -1,5 +1,5 @@
 ---
-title: "VS CodeのRmote SSHでWSL, Windows両方の設定を使う"
+title: "VS CodeのRemote SSHでWSL, Windows両方の設定を使う"
 emoji: "🐈"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["vscode", "ssh", "wsl"]
