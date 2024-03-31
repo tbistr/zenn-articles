@@ -5,12 +5,14 @@
     },
     "customizations": {
         "vscode": {
+            "settings": {
+                "extensions.verifySignature": false
+            },
             "extensions": [
                 "yzhang.markdown-all-in-one",
                 "DavidAnson.vscode-markdownlint",
                 "taichi.vscode-textlint"
             ]
         }
-    },
-    "postAttachCommand": "zenn preview"
+    }
 }
