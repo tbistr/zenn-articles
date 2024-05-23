@@ -6,6 +6,13 @@ topics: ["vscode", "devcontainer", "mac", "arm", "docker"]
 published: true
 ---
 
+## (2024/05/23) 追記
+
+VSCodeのバージョンが上がり、この問題は解消されたようです（動作は未確認）。
+嬉しいような、残念なような。
+
+[対応するissueへのリンクはこちら](https://github.com/microsoft/vscode-remote-release/issues/9628)
+
 ## 概要
 
 Macでもdevcontaienrを使って環境構築しようと思いましたが、x86のイメージを開くとVSCodeがスタックしてしまう問題に遭遇しました。
