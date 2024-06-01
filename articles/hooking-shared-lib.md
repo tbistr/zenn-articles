@@ -1,5 +1,5 @@
 ---
-title: "共有ライブラリをフックする(dlopen対応)"
+title: "LD_PRELOADを駆使してロードする共有ライブラリを動的に変える(dlopen対応)"
 emoji: "🎣"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["linux"]
