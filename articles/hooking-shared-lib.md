@@ -3,7 +3,7 @@ title: "LD_PRELOADを駆使してロードする共有ライブラリを動的�
 emoji: "🎣"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["linux"]
-published: false
+published: true
 publication_name: "kurusugawa"
 ---
 
