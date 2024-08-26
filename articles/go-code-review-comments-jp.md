@@ -18,9 +18,11 @@ published: true
 
 # 著作権表示
 
-Go言語のソースとドキュメントは、修正BSDライセンスで提供されています。
-Go Code Review Comments, およびGo wikiに直接表示があるわけではありませんが、Go wikiのドメインである`go.dev`の[ライセンスページ](https://go.dev/LICENSE)に同様のライセンス表示を確認できるため、以下に記載します。
-本記事は、基となる記事[Go Code Review Comments](https://go.dev/wiki/CodeReviewComments)に、修正BSDライセンスで許可されている改変を加えたものです。
+翻訳元であるGo wikiの内容は[基本的にCC BY 4.0で、コード部分は修正BSDライセンスで提供されています](https://go.dev/copyright)。
+本記事は、基となる記事[Go Code Review Comments](https://go.dev/wiki/CodeReviewComments)に、CC BY 4.0、修正BSDライセンスで許可されている改変を加えたものです。
+
+以下は、原文Go Code Review Commentsの著作権表示です。
+(修正BSDのライセンス表示をもって、CC BY 4.0の著作者表示も兼ねています)
 
 ```plaintext
 Copyright (c) 2009 The Go Authors. All rights reserved.
