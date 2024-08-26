@@ -4,10 +4,9 @@ emoji: "👀"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: [go, review]
 published: false
-publication_name: "kurusugawa"
 ---
 
-この記事は、[Go Code Review Comments](https://go.dev/wiki/CodeReviewComments)の翻訳記事です。
+この記事は,[Go Code Review Comments](https://go.dev/wiki/CodeReviewComments)の翻訳記事です.
 原典の情報に加えて、部分的に補足説明を追加しています。
 文の順序や構造は自然な日本語になるように調整していますが、段落は原典と対応するようにしています。
 
@@ -16,6 +15,42 @@ publication_name: "kurusugawa"
 :::message
 翻訳上の意味、日本語特有の情報や、内容に関する補足はこのように注釈を表示します。
 :::
+
+# 著作権表示
+
+Go言語のソースとドキュメントは、修正BSDライセンスで提供されています。
+Go Code Review Comments, およびGo wikiに直接表示があるわけではありませんが,[`go.dev`のライセンスページ](https://go.dev/LICENSE)にて同様のライセンス表示が確認できるため、以下に元のライセンス表示を記載します。
+本記事は、基となる記事[Go Code Review Comments](https://go.dev/wiki/CodeReviewComments)に、修正BSDライセンスで許可されている改変を加えたものです。
+
+```plaintext
+Copyright (c) 2009 The Go Authors. All rights reserved.
+
+Redistribution and use in source and binary forms, with or without
+modification, are permitted provided that the following conditions are
+met:
+
+   * Redistributions of source code must retain the above copyright
+notice, this list of conditions and the following disclaimer.
+   * Redistributions in binary form must reproduce the above
+copyright notice, this list of conditions and the following disclaimer
+in the documentation and/or other materials provided with the
+distribution.
+   * Neither the name of Google Inc. nor the names of its
+contributors may be used to endorse or promote products derived from
+this software without specific prior written permission.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
+"AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
+LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR
+A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT
+OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL,
+SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT
+LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE,
+DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY
+THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
+(INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
+OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+```
 
 # Go Wiki: Go Code Review Comments
 
