@@ -3,10 +3,10 @@ title: "[和訳]Go Code Review Comments"
 emoji: "👀"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: [go, review]
-published: false
+published: true
 ---
 
-この記事は,[Go Code Review Comments](https://go.dev/wiki/CodeReviewComments)の翻訳記事です.
+この記事は、[Go Code Review Comments](https://go.dev/wiki/CodeReviewComments)の翻訳記事です。
 原典の情報に加えて、部分的に補足説明を追加しています。
 文の順序や構造は自然な日本語になるように調整していますが、段落は原典と対応するようにしています。
 
@@ -19,7 +19,7 @@ published: false
 # 著作権表示
 
 Go言語のソースとドキュメントは、修正BSDライセンスで提供されています。
-Go Code Review Comments, およびGo wikiに直接表示があるわけではありませんが,[`go.dev`のライセンスページ](https://go.dev/LICENSE)にて同様のライセンス表示が確認できるため、以下に元のライセンス表示を記載します。
+Go Code Review Comments, およびGo wikiに直接表示があるわけではありませんが、Go wikiのドメインである`go.dev`の[ライセンスページ](https://go.dev/LICENSE)に同様のライセンス表示を確認できるため、以下に記載します。
 本記事は、基となる記事[Go Code Review Comments](https://go.dev/wiki/CodeReviewComments)に、修正BSDライセンスで許可されている改変を加えたものです。
 
 ```plaintext
