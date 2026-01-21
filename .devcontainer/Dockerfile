@@ -1,4 +1,4 @@
-FROM mcr.microsoft.com/vscode/devcontainers/javascript-node:18-bullseye
+FROM mcr.microsoft.com/vscode/devcontainers/javascript-node:24-bullseye
 
 # install fish terminal
 RUN apt-get update && apt-get install -y \
